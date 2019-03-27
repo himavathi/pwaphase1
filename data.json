@@ -1,0 +1,47 @@
+{
+"profile":
+  {
+  "image":  "images/ji.jpg",
+  "name":"Himavathi",
+  "email":"himavathi1997@gmail.com",
+  "designation":"student",
+  "phoneno":"9121368636"
+},
+"career":
+  {
+  "info"  :"prove my self"
+},
+"education":
+[
+  {
+  "qualification":"b.tech",
+  "institute":"mits",
+  "year":"2021",
+  "percent":"90"
+},
+{
+  "qualification":"inter",
+  "institute":"srichaitanya",
+  "year":"2017",
+  "percent":"97"
+
+},
+{
+  "qualification":"ssc",
+  "institute":"sbsr",
+  "year":"2015",
+  "percent":"90"
+}
+],
+"skills":[
+{
+  "name":"web technologies",
+  "info":["html","css","javascript"]
+},
+{
+  "name":"databases",
+  "info":["jdbc","sql","sqlite"]
+}
+]
+
+}
